@@ -24,65 +24,48 @@ Se trabaja en la construcción de la narrativa, la selección de los gráficos y
 
 ---
 
-## 🔧 Fase 4: Construcción del formato y Dashboard
+## 🔧 Fase 4: Construcción del Dashboard y formato de la presentación
 
 Esta fase final se centra en refinar el formato general de la presentación para unificar visualizaciones, formatos, paleta de colores y hacerla más atractiva, iterativa y fácil de entender. Se crean los dashboard 'Resumen de Gestión de Compras', que ofrecen una visión general del rendimiento de cada proveedor; y los dashboard 'Resumen de Proveedor' y 'Resumen de Producto' que filtran y detallan la información. Se aplican filtros por proveedor y rango de fechas para analizar diferentes situaciones.
 
 ---
 
-## 👩‍💻 Technologies used
+## 👩‍💻 Tecnologías utilizadas
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📁 Repository structure
+## 📁 Estructura del Repositorio
 
 ```
-housing_analysis_mar/
+supply_chain_mar_es/
 │
-├── README.md                             // Project documentation
+├── README.md                                           // Documentación del proyecto
 │
-├── .gitignore                            // Exclusion file for Git
+├── .gitignore                                          // Archivo de exclusión para Git
 │
-├── Dashboard.pbix                        // Dashboard in Power BI             
-│     
-├── images/                               // Images used in the dashboard and presentation
-│   ├── casa_ant.png
-│   ├── casa_hoy.PNG
-│   ├── educacion_ingresos.png
-│   ├── ejemplo_powerbi_proyecto4.png
-│   ├── gen_blue.png
-│   ├── Inicio.png
-│   ├── laboral_blue.png
-│   ├── logo.png
-│   ├── ocup_blue.png
-│   ├── wordcloud_blue.png                 
-│   └── wordcloud_green.png                
+├── Informe Gestion Compras y Supply - Pastor.pbix      // Dashboard en Power BI             
 │
-├── notebook/                              
-│   ├── EDA_dataset.ipynb                  // EDA
-│   └── Visualizations.ipynb               // Data visualizations
+├── documents/                              
+│   └── supplyChainProject_PDF.ipynb                    // Dashboard exportados en PDF
+│ 
+├── images/                                             // Imágenes utilizadas en el dashboard y presentación
+│   ├── 1.supply_back.png
+│   ├── 2.supply_back.png
+│   ├── 3.supply_back.png
+│   ├── Dashboard_1.png 
+│   ├── Informe_gestion_compras_filtro.png
+│   ├── Resumen_producto_filtro.png                  
+│   └── Resumen_proveedores_filtro.png                
 │
 └── resources/                             
-    ├── adult.csv                          // Original dataset
-    ├── adult_limpio.csv                   // Dataset clean and prepare
-    ├── EMSI_MillenialsvsBabyBoomers.xlsx
-    ├── generaciones.csv
-    ├── guion_presentacion_final.docx      // Presentation guion (Spanish)
-    ├── home-ownership-by-country-2025.csv
-    ├── household_income.csv
-    ├── ingresos_generacionales_usa_2025.csv
-    ├── median_income_by_year.csv
-    ├── ownership_house.csv
-    ├── precio_vivienda_usa_1940_2024.csv
-    ├── world_population.csv
-    └── world_population_total.csv
+    ├── Compras.xlsx                                     // Dataset de estudio
+    ├── query+compras+adventureworks.sql                 // SQL con querys para exportación de datos de compras
+    ├── query+productos.sql                              // SQL con querys para exportación de datos de productos
+    └── query+proveedores.sql                            // SQL con querys para exportación de datos de proveedores
 ```
 ---
 
