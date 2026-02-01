@@ -69,65 +69,46 @@ supply_chain_mar_es/
 ```
 ---
 
-## 📝 Instructions for use
+## 📝 Instrucciones de uso
 
-This project requires Python 3.8 or higher and Power BI desktop.
+Este proyecto requiere Python 3.8 o superior y Power BI Desktop.
 
-1. Clone the repository:
+1. Clonar el repositorio:
 
-- git clone https://github.com/MarPastor/housing_analysis_mar.git
-- cd .\notebook
+- git clone https://github.com/MarPastor/supply_chain_mar_es
 
-2. Run the code to clean the CSV file
-
-3. Open the Power BI file  ['Dashboard']('Dashboard.pbix') to interact with the visualizations.
+2. Abrir el archivo de Power BI !['Informe Gestion Compras y Supply - Pastor'](https://github.com/MarPastor/supply_chain_mar_es/blob/main/Informe%20Gestion%20Compras%20y%20Supply%20-%20Pastor.pbix) para interactuar con las visualizaciones y gráficas.
 
 ---
 
-## ✅ Project status
+## ✅ Status del proyecto
 
-✅ Completed
-
----
-
-## 📷 Some dashboard visualizations
-
-- Dashboard_01 1:
-
-![inicio](https://github.com/MarPastor/housing_analysis_mar/blob/main/images/Inicio.PNG)
-
-- Visualizations (education vs income):
-  
-![educacion_ingresos](https://github.com/MarPastor/housing_analysis_mar/blob/main/images/educacion_ingresos.PNG)
-
-- Graphic_01:
-  
-![graphic_01](https://github.com/MarPastor/housing_analysis_mar/blob/main/images/graphic_01.png)
-
-- Graphic_02:
-  
-![graphic_02](https://github.com/MarPastor/housing_analysis_mar/blob/main/images/graphic_02.png)
-
-- Graphic_03:
-  
-![graphic_03](https://github.com/MarPastor/housing_analysis_mar/blob/main/images/graphic_03.png)
-
-- Graphic_04:
-  
-![graphic_04](https://github.com/MarPastor/housing_analysis_mar/blob/main/images/graphic_04.png)
-
-- Graphic_05:
-  
-![graphic_05](https://github.com/MarPastor/housing_analysis_mar/blob/main/images/graphic_05.png)
+✅ Completado
 
 ---
 
-## ✍️ Authors
+## 📷 Algunas visualizaciones de los dashboard
 
-- [Alejandra Martin - Development team](https://github.com/al3msvll)
-- [Esther Domínguez - Develeopment team](https://github.com/EstherDE135)
-- [Iris Barredo del Sol - Scrum Master y Development team](https://github.com/irisbdelsol)
-- [Julia Becaria Coquet - Development team](https://github.com/juliabeco)
+- Informe de Gestión de Compras con filtro aplicado:
+
+![gestion_compras_filtro](https://github.com/MarPastor/supply_chain_mar_es/blob/main/images/Informe_gestion_compras_filtro.png)
+
+- Resumen de Productos con filtro aplicado:
+  
+![resumen_producto](https://github.com/MarPastor/supply_chain_mar_es/blob/main/images/Resumen_producto_filtro.png)
+
+- Resumen de Proveedores con filtro aplicado:
+  
+![resumen_proveedores](https://github.com/MarPastor/supply_chain_mar_es/blob/main/images/Resumen_proveedores_filtro.png)
+
+- Dashboard del Informe de Gestión de Compras:
+  
+![gestion_compras](https://github.com/MarPastor/supply_chain_mar_es/blob/main/images/Dashboard_1.png)
+
+---
+
+## ✍️ Autora
+
 - [Mar Pastor - Development team](https://github.com/MarPastor)
 
 ---
