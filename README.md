@@ -52,7 +52,7 @@ supply_chain_mar_es/
 ├── documents/                              
 │   └── supplyChainProject_PDF.ipynb                // Dashboard exportados en PDF
 │ 
-├── images/                                         // Imágenes utilizadas en el dashboard y presentación
+├── images/                                         // Imágenes para el dashboard y presentación
 │   ├── 1.supply_back.png
 │   ├── 2.supply_back.png
 │   ├── 3.supply_back.png
@@ -77,7 +77,7 @@ Este proyecto requiere Python 3.8 o superior y Power BI Desktop.
 
 - git clone https://github.com/MarPastor/supply_chain_mar_es
 
-2. Abrir el archivo de Power BI !['Informe Gestion Compras y Supply - Pastor'](https://github.com/MarPastor/supply_chain_mar_es/blob/main/Informe%20Gestion%20Compras%20y%20Supply%20-%20Pastor.pbix) para interactuar con las visualizaciones y gráficas.
+2. Abrir el archivo de Power BI [Informe Gestion Compras y Supply - Pastor'](https://github.com/MarPastor/supply_chain_mar_es/blob/main/Informe%20Gestion%20Compras%20y%20Supply%20-%20Pastor.pbix) para interactuar con las visualizaciones y gráficas.
 
 ---
 
