@@ -1,6 +1,6 @@
 # Supply Chain Analytics - Análisis de Cadena de Suministro y de Logística
 
-![gestion_compras](https://github.com/MarPastor/supply_chain_mar_es/blob/main/images/Dashboard_1.png)
+![supply_chain](https://github.com/MarPastor/supply_chain_mar_es/blob/main/images/supply_chain_3.png)
 
 Este proyecto nos sumerge en el Supply Chain Analytics utilizando Microsoft Power BI, herramienta usada para Business Intelligence Analytics. Se analizará el corazón operativo de cualquier empresa: la cadena de suministro. Desde la logística y las compras estratégicas hasta la gestión optimizada del inventario y la relación con proveedores, este proyecto refleja habilidades para evaluar y mejorar cada eslabón de la cadena.
 
