@@ -63,9 +63,9 @@ supply_chain_mar_es/
 │
 └── resources/                             
     ├── Compras.xlsx                                     // Dataset de estudio
-    ├── query+compras+adventureworks.sql                 // SQL con querys para exportación de datos de compras
-    ├── query+productos.sql                              // SQL con querys para exportación de datos de productos
-    └── query+proveedores.sql                            // SQL con querys para exportación de datos de proveedores
+    ├── query+compras+adventureworks.sql                 // Query para exportación de datos de compras
+    ├── query+productos.sql                              // Query para exportación de datos de productos
+    └── query+proveedores.sql                            // Query para exportación de datos de proveedores
 ```
 ---
 
