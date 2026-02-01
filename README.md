@@ -2,7 +2,7 @@
 
 Este proyecto nos sumerge en el Supply Chain Analytics utilizando Microsoft Power BI, herramienta usada para Business Intelligence Analytics. Se analizará el corazón operativo de cualquier empresa: la cadena de suministro. Desde la logística y las compras estratégicas hasta la gestión optimizada del inventario y la relación con proveedores, este proyecto refleja habilidades para evaluar y mejorar cada eslabón de la cadena.
 
-En este proyectos se transforman datos brutos en informes dinámicos y visualizaciones impactantes, revelando insights cruciales para la toma de decisiones estratégicas y la mejora de la eficiencia operativa, en el contexto de una empresa de productos electrónicos multinacional.
+En este proyectos se transforman datos brutos en informes dinámicos y visualizaciones impactantes, revelando insights cruciales para la toma de decisiones estratégicas y la mejora de la eficiencia operativa, en el contexto de una empresa de productos electrónicos multinacional y sus proveedores.
 
 ---
 
@@ -14,19 +14,19 @@ En esta fase, la base de datos se conecta al modelo de Power BI. Se realiza una 
 
 ## 🧮 Fase 2: Cálculo de medidas
 
-En esta fase se crean medidas que ayudan a calcular el 'Monto de las Ordenes de Compra', 'Cantidad Comprometida y Recibida', 'InFull', 'OnTime', 'OTIF', 'Desviación InFull y Desviación OnTime', 'Montos Comprometidos', 'Lead Time' y 'Cantidad de ODC Anuladas'. Con estas medidas se podrán aplicar filtros y visualizar los KPI necesarios para el análisis en el performance y cumplimiento en la cadena de suplemento y logística por cada compañía cliente. Para ellos se emplea DAX y lenguaje M.
+Creación medidas que ayudan a calcular el 'Monto de las Ordenes de Compra', 'Cantidad Comprometida y Recibida', 'InFull', 'OnTime', 'OTIF', 'Desviación InFull y Desviación OnTime', 'Montos Comprometidos', 'Lead Time' y 'Cantidad de ODC Anuladas'. Con estas medidas se podrán aplicar filtros y visualizar los KPI necesarios para el análisis en el performance y cumplimiento en la cadena de suplemento y logística por cada proveedor. Para ellos se emplea DAX y lenguaje M.
 
 ---
 
-## 📈 Phase 3: Selection of visualizations that tell the story
+## 📈 Fase 3: Selección de visualizaciones que cuentan la historia
 
-In this phase, we worked in parallel on building the narrative and selecting the charts, choosing the visualizations using Power BI. With these tools, we were able to distribute the data that helps us tell the story and test our hypotheses.
+Se trabaja en la construcción de la narrativa, la selección de los gráficos y KPI's, tanto como en la selección de las visualizaciones en Power BI. 
 
 ---
 
-## 🧽 Phase 4: Dashboard formatting and presentation
+## 🔧 Fase 4: Construcción del formato y Dashboard
 
-In this final phase we focus on refining the overall presentation format to unify visualizations, formats, color palette, and make it more attractive, iterative, and easy to understand.
+Esta fase final se centra en refinar el formato general de la presentación para unificar visualizaciones, formatos, paleta de colores y hacerla más atractiva, iterativa y fácil de entender. Se crean los dashboard 'Resumen de Gestión de Compras', que ofrecen una visión general del rendimiento de cada proveedor; y los dashboard 'Resumen de Proveedor' y 'Resumen de Producto' que filtran y detallan la información. Se aplican filtros por proveedor y rango de fechas para analizar diferentes situaciones.
 
 ---
 
