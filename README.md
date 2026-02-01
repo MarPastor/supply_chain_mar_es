@@ -43,16 +43,16 @@ Esta fase final se centra en refinar el formato general de la presentación para
 ```
 supply_chain_mar_es/
 │
-├── README.md                                           // Documentación del proyecto
+├── README.md                                       // Documentación del proyecto
 │
-├── .gitignore                                          // Archivo de exclusión para Git
+├── .gitignore                                      // Archivo de exclusión para Git
 │
-├── Informe Gestion Compras y Supply - Pastor.pbix      // Dashboard en Power BI             
+├── Informe Gestion Compras y Supply - Pastor.pbix  // Dashboard en Power BI             
 │
 ├── documents/                              
-│   └── supplyChainProject_PDF.ipynb                    // Dashboard exportados en PDF
+│   └── supplyChainProject_PDF.ipynb                // Dashboard exportados en PDF
 │ 
-├── images/                                             // Imágenes utilizadas en el dashboard y presentación
+├── images/                                         // Imágenes utilizadas en el dashboard y presentación
 │   ├── 1.supply_back.png
 │   ├── 2.supply_back.png
 │   ├── 3.supply_back.png
@@ -62,10 +62,10 @@ supply_chain_mar_es/
 │   └── Resumen_proveedores_filtro.png                
 │
 └── resources/                             
-    ├── Compras.xlsx                                     // Dataset de estudio
-    ├── query+compras+adventureworks.sql                 // Query para exportación de datos de compras
-    ├── query+productos.sql                              // Query para exportación de datos de productos
-    └── query+proveedores.sql                            // Query para exportación de datos de proveedores
+    ├── Compras.xlsx                                 // Dataset de estudio
+    ├── query+compras+adventureworks.sql             // Query para exportación de datos de compras
+    ├── query+productos.sql                          // Query para exportación de datos de productos
+    └── query+proveedores.sql                        // Query para exportación de datos de proveedores
 ```
 ---
 
