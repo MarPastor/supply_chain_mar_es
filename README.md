@@ -1,13 +1,12 @@
-# Dátikas - Housing Analytics
-![Dátikas](https://github.com/MarPastor/housing_analysis_mar/blob/main/images/logo.png)
+# Supply Chain Analytics - Análisis de Cadena de Suministro y de Logística
 
-Baby Boomers reached homeownership age during a period of significant expansion in the United States, with average homeownership rates nearing 67%. In contrast, Millennials faced lower rates and higher prices, reflecting a decline in housing affordability.
+Este proyecto nos sumerge en el Supply Chain Analytics utilizando Microsoft Power BI, herramienta usada para Business Intelligence Analytics. Se analizará el corazón operativo de cualquier empresa: la cadena de suministro. Desde la logística y las compras estratégicas hasta la gestión optimizada del inventario y la relación con proveedores, este proyecto refleja habilidades para evaluar y mejorar cada eslabón de la cadena.
 
-This project will help us understand this snapshot of the US housing market, where Baby Boomers faced lower prices, their access facilitated by urban expansion policies and credit. Millennials, on the other hand, faced higher prices and a lower homeownership rate, reflecting a current housing affordability crisis.
+En este proyectos se transforman datos brutos en informes dinámicos y visualizaciones impactantes, revelando insights cruciales para la toma de decisiones estratégicas y la mejora de la eficiencia operativa, en el contexto de una empresa de productos electrónicos multinacional.
 
 ---
 
-## 🔎 Phase 1: Selection of the study dataset
+## 🔎 Fase 1: Selection of the study dataset
 
 In this phase, we faced the challenge of selecting a dataset containing real-world data and census data from the United States population that would provide demographic information by generation, allowing us to make comparisons. The next challenge was to obtain additional datasets that would enrich this information and expand upon the data we obtained in the base dataset.
 
