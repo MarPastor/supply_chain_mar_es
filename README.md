@@ -6,15 +6,15 @@ En este proyectos se transforman datos brutos en informes dinámicos y visualiza
 
 ---
 
-## 🔎 Fase 1: Selection of the study dataset
+## 🔎 Fase 1:  Conexión con los datos
 
-In this phase, we faced the challenge of selecting a dataset containing real-world data and census data from the United States population that would provide demographic information by generation, allowing us to make comparisons. The next challenge was to obtain additional datasets that would enrich this information and expand upon the data we obtained in the base dataset.
+En esta fase, la base de datos se conecta al modelo de Power BI. Se realiza una EDA mediante Power Query para unificar los datos y garantizar que no contengan columnas vacías ni filas que no proporcionen información relevante.
 
 ---
 
-## 🧹 Phase 2: EDA and data cleaning of the dataset
+## 🧮 Fase 2: Cálculo de medidas
 
-In this phase, an EDA was performed using Python to unify data, delete columns that did not provide relevant information, and unify categories.
+En esta fase se crean medidas que ayudan a calcular el 'Monto de las Ordenes de Compra', 'Cantidad Comprometida y Recibida', 'InFull', 'OnTime', 'OTIF', 'Desviación InFull y Desviación OnTime', 'Montos Comprometidos', 'Lead Time' y 'Cantidad de ODC Anuladas'. Con estas medidas se podrán aplicar filtros y visualizar los KPI necesarios para el análisis en el performance y cumplimiento en la cadena de suplemento y logística por cada compañía cliente. Para ellos se emplea DAX y lenguaje M.
 
 ---
 
